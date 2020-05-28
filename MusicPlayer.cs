@@ -9,6 +9,7 @@ public class MusicPlayer : MonoBehaviour
     private int ind = 0;
     private AudioSource player;
     public Text title;
+    public Text timer;
 
 
 
@@ -51,6 +52,9 @@ public class MusicPlayer : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        int minutes = (int)player.time / 60;
+        int seconds = (int)player.time % 60;
+        timer.text = minutes.ToString("00") + ":" + seconds.ToString("00");
         title.text = player.clip.name;
     }
     bool CheckNullSong()
