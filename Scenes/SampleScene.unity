@@ -3906,6 +3906,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 841842997793331066}
+  - component: {fileID: 238474373175911676}
   m_Layer: 0
   m_Name: Nivel6
   m_TagString: Untagged
@@ -3913,6 +3914,19 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!114 &238474373175911676
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 238474373175911675}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79d19384ff0992a4bab20605eb1ef023, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speed: 15
 --- !u!4 &239030023908673566
 Transform:
   m_ObjectHideFlags: 0
@@ -19217,6 +19231,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6751994572942779088}
+  - component: {fileID: 3987477570761785738}
   m_Layer: 0
   m_Name: Nivel4
   m_TagString: Untagged
@@ -19224,6 +19239,19 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!114 &3987477570761785738
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3987477570761785737}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79d19384ff0992a4bab20605eb1ef023, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speed: 15
 --- !u!33 &3994016934737577224
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -20436,6 +20464,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6776409969396491671}
+  - component: {fileID: 4223941633561309077}
   m_Layer: 0
   m_Name: Nivel8
   m_TagString: Untagged
@@ -20443,6 +20472,19 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!114 &4223941633561309077
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4223941633561309076}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79d19384ff0992a4bab20605eb1ef023, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speed: 15
 --- !u!23 &4224323634871446920
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -22405,6 +22447,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 967727384921299219}
+  - component: {fileID: 4644035948017746337}
   m_Layer: 0
   m_Name: Nivel2
   m_TagString: Untagged
@@ -22412,6 +22455,19 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!114 &4644035948017746337
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4644035948017746336}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79d19384ff0992a4bab20605eb1ef023, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speed: 15
 --- !u!1 &4649723679225507310
 GameObject:
   m_ObjectHideFlags: 0
