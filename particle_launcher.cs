@@ -7,7 +7,6 @@ using UnityEngine;
 public class particle_launcher : MonoBehaviour
 {
     public ParticleSystem p_launcher;
-    public GameObject cubito = instantiate.cube;
     public float _maxScale = 1000000f, prom, pdef, cond;
     // Start is called before the first frame update
     void Start()
